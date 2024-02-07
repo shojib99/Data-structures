@@ -2,8 +2,7 @@
 using namespace std;
 int main()
 {
-  int
-  num[4];
+  int num[4];
   int i;
   cout<<"Enter four number:"<<endl;
  {
